@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MergeSorter
+comment0.text=\n\ An\ implement\ of\ Merge\ sort\n\n\ @author\ Shakh\ Saidov\ &\ Ali\ Sultan\n
+comment1.params=a
+comment1.target=void\ sort(java.lang.Comparable[])
+comment1.text=\n\ To\ correctly\ implement\ Sorter.\ Driver\ method\ \n\n\ @param\ \ a\ \ an\ array\ of\ comparable\ objects\n
+comment2.params=a\ start\ end
+comment2.target=void\ sort(java.lang.Comparable[],\ int,\ int)
+comment2.text=\n\ Sort\ an\ array\ using\ merge\ sort.\ \n\n\ @param\ \ a\ \ an\ array\ of\ comparable\ objects\n\ @param\ \ start\ \ \ \ first\ index\ of\ array\n\ @param\ \ end\ \ last\ index\ of\ array\n
+comment3.params=a\ start\ half\ end
+comment3.target=void\ merge(java.lang.Comparable[],\ int,\ int,\ int)
+comment3.text=\n\ \ \ \ /**\n\ Sort\ an\ array\ using\ merge\ sort.\ \n\n\ @param\ \ start\ \ \ \ start\ index\n\ @param\ \ hald\ \ \ \ \ half\ index\n\ @param\ \ end\ \ \ \ \ \ last\ indx\n
+numComments=4

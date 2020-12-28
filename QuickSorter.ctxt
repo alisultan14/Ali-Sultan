@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=QuickSorter
+comment0.text=\n\ Abstract\ class\ QuickSorter\ with\ the\ common\ quicksort\ components\n\n\ @author\ Shakh\ Saidov\ &\ Ali\ Sultan\n
+comment1.params=a
+comment1.target=void\ sort(java.lang.Comparable[])
+comment1.text=\n\ Sort\ an\ array\ of\ comparable\ objects\ using\ quick\ sort.\ \n\ @param\ \ a\ \ an\ array\ of\ comparable\ objects\n
+comment2.params=a\ fst\ lst
+comment2.target=void\ qSort(java.lang.Comparable[],\ int,\ int)
+comment3.params=a\ fst\ lst
+comment3.target=int\ partition(java.lang.Comparable[],\ int,\ int)
+comment4.params=a\ index1\ index2
+comment4.target=void\ swap(java.lang.Comparable[],\ int,\ int)
+numComments=5

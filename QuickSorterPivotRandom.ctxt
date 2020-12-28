@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=QuickSorterPivotRandom
+comment0.text=\n\ Class\ where\ the\ pivot\ choice\ is\ a\ random\ element\ in\ the\ array\n\n\ @author\ Shakh\ Saidov\ and\ Ali\ Sultan\n
+comment1.params=a\ fst\ lst
+comment1.target=int\ partitionR(java.lang.Comparable[],\ int,\ int)
+comment2.params=a\ fst\ lst
+comment2.target=int\ partition(java.lang.Comparable[],\ int,\ int)
+comment2.text=\n\ Partinioning\ Code\ \n
+numComments=3

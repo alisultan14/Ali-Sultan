@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SelectionSorter
+comment0.text=\n\ An\ implement\ of\ Selection\ sort\n\ \n\ @author\ Shakh\ Saidov\ &\ Ali\ Sultan\n
+comment1.params=a
+comment1.target=void\ sort(java.lang.Comparable[])
+comment1.text=\n\ Sort\ an\ array\ using\ selection\ sort.\ \n\ @param\ \ a\ \ an\ array\ of\ comparable\ objects\n
+numComments=2
